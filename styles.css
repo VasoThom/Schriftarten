@@ -1,5 +1,11 @@
 .vaso {
+  position: fixed;
+  background-color: red;
   font-family: "Water Brush", cursive;
+  top: 0;
+}
+div {
+  padding: 80px;
 }
 
 .h1 {
